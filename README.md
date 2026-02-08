@@ -1,4 +1,4 @@
 # Aryan-Demo
-This is my first git repository.
+This is my first Git repository.
 <br>
-Author-Aryan Kumar Gupta
+Author-Aryan Kumar Gupta (AKG)
